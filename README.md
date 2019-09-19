@@ -1,1 +1,5 @@
-# Project_1_General_Assembly
+# Project 1 - General Assembly Assignment
+
+- - - - 
+
+
