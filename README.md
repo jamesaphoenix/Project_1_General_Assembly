@@ -8,5 +8,5 @@ During this project, I learned how to create and manipulate data structures with
 * Lists
 * Functions
 
-[Jupyter Notebook - Assignment 1](#Project_1_General_Assembly.ipynb)
+[Jupyter Notebook - Assignment 1](Project_1_General_Assembly.ipynb)
 
